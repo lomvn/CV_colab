@@ -4,4 +4,4 @@
 Подключаем Google Drive.
 Устанавливаем и импортируем необходимые библиотеки.
 Извлекаем данные из архива.
-(файл с данными по ссылке https://www.microsoft.com/en-us/download/details.aspx?id=54765)
+(файл с данными по ссылке https://www.microsoft.com/en-us/download/details.aspx?id=54765, его лучше сохранить на свой Google Drive)
